@@ -49,4 +49,4 @@ def train(model, optimizer, criterion, train_data, val_data, epochs):
             # Compute loss
             # Backward pass
             # Update weights
-        # Validate and checkpoint
+        # Validate and checkpoint 
